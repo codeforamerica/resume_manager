@@ -18,6 +18,7 @@ gem 'pg'
 gem 'slim-rails'
 gem 'omniauth'
 gem 'omniauth-facebook', '1.4.0'
+gem 'dotenv-rails'
 
 group :development, :test do
   gem 'capybara', '~> 2.13.0'
@@ -28,7 +29,6 @@ group :development, :test do
   gem 'pry-rescue'
   gem 'rspec-rails'
   gem 'rubocop'
-  gem 'dotenv-rails'
 end
 
 group :development do
