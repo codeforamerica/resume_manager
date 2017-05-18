@@ -17,6 +17,7 @@ gem 'jquery-rails'
 gem 'pg'
 gem 'slim-rails'
 gem 'omniauth-facebook'
+gem 'devise'
 gem 'dotenv-rails'
 
 group :development, :test do

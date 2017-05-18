@@ -12,5 +12,7 @@ html
     header
       == render 'layouts/navigation'
     main[role="main"]
+      p.notice=notice
+      p.alert=alert
       == render 'layouts/messages'
       == yield
