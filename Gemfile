@@ -16,8 +16,7 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
 gem 'pg'
 gem 'slim-rails'
-gem 'omniauth'
-gem 'omniauth-facebook', '1.4.0'
+gem 'omniauth-facebook'
 gem 'dotenv-rails'
 
 group :development, :test do

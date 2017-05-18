@@ -282,8 +282,7 @@ DEPENDENCIES
   jquery-rails
   launchy
   listen (>= 3.0.5, < 3.2)
-  omniauth
-  omniauth-facebook (= 1.4.0)
+  omniauth-facebook
   pg
   pry-rails
   pry-rescue
